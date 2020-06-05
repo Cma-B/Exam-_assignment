@@ -1,0 +1,11 @@
+{
+  "name": "exam_assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cma-B/Exam-_assignment.git",
+  "author": "Sima <sima.boreiri@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
